@@ -18,6 +18,7 @@ name | type | description
 :--: | :--: | :-----:
 options | Object | just like `table-column` config
 commands | Object | for create commands
+defaultTemplate | function | (`command`, `tableRow`), see `js code`
 
 ## makeCommands-commands Configs
 name | type | description
