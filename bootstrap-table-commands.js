@@ -1,8 +1,9 @@
 /**
-    commands Maker
-    made by Mitt
-    2017-05-26
-**/
+ * @name Commands Maker
+ * @author MittWillson <MittWillson@icloud.com>
+ * version: 0.0.1
+ * https://github.com/MittWillson/bootstrap-table-commands
+ */
 
 (function ($) {
     'use strict';
