@@ -12,15 +12,15 @@ bootstrap-table commands plugin | bootstrap-table 的 commands 插件
 * [see example page](https://mittwillson.github.io/bootstrap-table-commands/)
 * [see example code](https://github.com/MittWillson/bootstrap-table-commands/blob/master/index.html)
 
-## makeCommands Configs
+## makeCommands Configuration
 
 name | type | description
 :--: | :--: | :-----:
-options | Object | just like `table-column` config
+options | Object | just like `table-column` configuration
 commands | Object | for create commands
 defaultTemplate | function | (`command`, `tableRow`), see `js code`
 
-## makeCommands-commands Configs
+## makeCommands-commands Configuration
 name | type | description
 :--: | :--: | :-----
 title | string(or function) | if value is a function, then you can get (`command` (see `makeCommands-command Object Values`), `tableRow` (see `makeCommands-tableRow Object Values`)) to dynamic create a title
