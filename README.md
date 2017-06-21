@@ -29,7 +29,7 @@ callback | function | when user click on command, then trigger a click event and
 ## makeCommands-command Object Values
 name | type | description
 :--: | :--: | :------
-title | string | diplay name, if set a function, will get a already dynamic created title
+title | string | display name, if set a function, will get a already dynamic created title
 index | integer | index of `makeCommands Configs -> commands`
 options | Object | see `makeCommands-commands Configs`
 
